@@ -46,12 +46,12 @@ healthcare-analytics/
 5. Multi-modal classification
 6. Tableau dashboard creation
 
-## 👤 Author
+##  Author
 **Jairaghavendra Sridhar**  
 MS Data Analytics Engineering, Northeastern University  
 [LinkedIn](https://linkedin.com/in/jairaghavendrasridhar26) | [GitHub](https://github.com/jaira26)
 
-## 📝 Citation
+##  Citation
 ```
 Sridhar, Jairaghavendra. (2025). Multi-Modal Mental Health Crisis Prediction System.
 https://github.com/jaira26/healthcare-analytics
